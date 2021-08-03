@@ -1,0 +1,24 @@
+
+
+let arr = [1,2];
+let arr2 =[2,3];
+for(let i=0; i<=arr2.length i++){
+  for(let j=0; j<=arr.length; j++){
+      if(arr[i] != arr2[j]){
+          arr.push()
+      }
+  }
+}
+
+
+function even(n){
+
+if(n%2 == 0){
+    console.log("even number");
+}
+
+}
+
+let arr = [{id:1, name:"bca"},{id:2,name:"abc"}];
+
+arr.map((item)=> console.log(item.name))
